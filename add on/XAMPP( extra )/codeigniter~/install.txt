@@ -1,0 +1,7 @@
+How to install
+
+- Put it to the htdocs folder
+- Create a database and import the member.sql
+- Modified application/config/config.php for the path in your computer
+- Modified application/config/database.php for the database in your phpmyadmin
+- Let's begin our journey ^_^
